@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: lightblue;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 20px;
+    color: orange;
+    border: 2px solid red;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    background-color: cyan;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: darkblue;
+}
+
+main p {
+    margin-left: 20px;
+}
+
+footer a {
+    margin: 20px;
+} 
